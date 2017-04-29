@@ -1,0 +1,30 @@
+@media(max-width:768px)
+{
+#FILLER
+{
+    display: none;
+}
+#DIV_1
+{
+  margin-top: 0;
+}
+#DIV_2
+{
+  margin-top: 0;
+}
+}
+.top-grid
+{
+  margin-top:-40px;
+  margin-left: -9%;
+}
+.top-buffer
+{
+  margin-top:-54%;
+  margin-left:4%;
+}
+.top-shift
+{
+  margin-top:-43%;
+  margin-left:37%;
+}
